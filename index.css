@@ -7,7 +7,8 @@
 
 html {
     height: 99%;
-    width: 99%
+    width: 99%;
+    scroll-behavior: smooth;
 }
 
 #bg {
@@ -20,7 +21,10 @@ html {
     display: block;
 }
 
-
+h4>a{
+    text-decoration: none;
+    color: inherit;
+}
 
 .material-symbols-outlined {
     font-variation-settings:
