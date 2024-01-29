@@ -11,7 +11,7 @@ Welcome to my GitHub repository showcasing a dynamic replica of a Ferrari-themed
 Fueled by passion and inspired by [Behance Design](https://www.behance.net/gallery/189094517/Re-design-website-Ferrari), this project is a testament to my web development skills and appreciation for stunning design.
 
 🔗 **Explore the Project:**
-Check out the live version: [Ferrari Website Replica](insert your project link)
+Check out the live version: [Ferrari Website Replica](https://codxvenu.github.io/ferrari-redesigned/)
 
 🙌 **Credits:**
 Huge shoutout to the creative mind behind the original Behance design. [designer.](https://www.behance.net/khamgouhaokip)
