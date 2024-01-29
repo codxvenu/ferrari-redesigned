@@ -1,4 +1,4 @@
-🏎️ Ferrari Website Replica 🏁
+🏎️ Ferrari Website Redegsigned Replica 🏁
 
 Welcome to my GitHub repository showcasing a dynamic replica of a Ferrari-themed website! 🚀 I drew inspiration from an incredible Behance design, adding my creative touch to the sleek and luxurious world of Ferrari.
 
